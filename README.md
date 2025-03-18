@@ -1,6 +1,4 @@
 
-`![Print do Banner](./public/assets/print-banner.png)`
-
 # Google SignIn Test
 
 Este é um projeto em React Native criado com Expo desenvolvido com o intuito educacional.
